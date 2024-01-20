@@ -32,7 +32,7 @@ body::before {
 @media (min-width: 1024px) {
   body::before {
     background-attachment: fixed;
-  }
+  }/#
 }
 
 a {
@@ -51,7 +51,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "poppins", sans-serif;
 }
 
 /*--------------------------------------------------------------
